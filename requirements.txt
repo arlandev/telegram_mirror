@@ -1,0 +1,5 @@
+langdetect==1.0.9
+nextcord==2.1.0
+nextcord_ext_menus==1.5.4
+python-dotenv==0.20.0
+requests==2.31.0
