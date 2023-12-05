@@ -3,10 +3,10 @@ Reflects specified Telegram Channel messages into a Discord Webhook link, includ
 
 # Requirements
 
-- Python 3.11 or later
-- Python pip -> requirements.txt
-- Discord bot token
-- Telegram API tokens
+- python 3.11 or later
+- python pip -> requirements.txt
+- discord bot token https://discord.com/developers/
+- telegram API tokens https://core.telegram.org/bots/api
 
 # How to run
 ```py
